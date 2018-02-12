@@ -4,7 +4,6 @@ echo
 echo "<html><body>"
 echo "$(date)"
 echo "<br><br>"
-echo "<pre>$(/home/awkologist/BioLinux/blastalert.sh
-)</pre>"
+echo "<pre>$(/home/awkologist/BioLinux/blastalert.sh)</pre>"
 cp blastalert.txt /home/awkologist/BioLinux/blastalert-www.txt
 echo "</html></body>"
